@@ -1,0 +1,20 @@
+{
+  "name": "genpark-agent-executive-briefing-dossier-synthesizer-skill",
+  "version": "1.0.0",
+  "description": "Cross-departmental executive briefing and morning dossier synthesizer aggregating Slack, email threads, and Jira updates into structured KPI summaries and risk signals",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "executive-briefing",
+    "morning-dossier",
+    "kpi-monitoring",
+    "cross-department-sync",
+    "workplace-agent",
+    "autonomous-agents",
+    "python-standard-library",
+    "agent-skills",
+    "business-intelligence",
+    "zero-dependency"
+  ]
+}
